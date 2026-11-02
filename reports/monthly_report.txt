@@ -1,0 +1,14 @@
+MONTHLY EXPENSE REPORT
+Date: 01-11-2026
+Total Expenses: 350.0
+
+Category-wise Expenses:
+food: 150.0
+travel: 200.0
+
+Average Expense: 175.0
+
+
+Expense Details:
+EXP-39142 | lunch | food | 150.0
+EXP-79013 | travel | travel | 200.0
